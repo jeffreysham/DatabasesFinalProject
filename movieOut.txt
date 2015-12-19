@@ -1,0 +1,591 @@
+Rabbit Hole, 120
+The Last Station, 246
+Spielzeugland (Toyland), 469
+Away from Her, 514
+The Hours, 1138
+Scottsboro: An American Tragedy, 1431
+Space Cowboys, 1479
+The Incredibles, 911
+Gone Nutty, 1098
+Taxi to the Dark Side, 557
+Big Fish, 1081
+Click, 703
+Super Size Me, 936
+The Kite Runner, 577
+Crouching Tiger, 1408
+Black Swan, 123
+New Boy, 467
+Deliver Us from Evil, 683
+Transformers, 605
+Dancer in the Dark, 1457
+The Barbarian Invasions, 1073
+Monster, 1027
+A Mighty Wind, 1088
+Sweeney Todd The Demon Barber of Fleet Street, 497
+A Beautiful Mind, 1252
+Miracle Fish, 343
+Lorenzo, 975
+Meet the Parents, 1456
+The Secret of Kells, 270
+The Perfect Storm, 1477
+Legacy, 1429
+8 Mile, 1215
+Helmer & Son, 727
+The Affair of the Necklace, 1297
+Jesus Camp, 686
+9, 850
+The Fighter, 110
+Before Night Falls, 1374
+Charlie and the Chocolate Factory, 801
+Capturing the Friedmans, 1061
+I, 991
+The Last King of Scotland, 632
+The New World, 800
+The Collector of Bedford Street, 1190
+Paris 36, 322
+Poseidon, 741
+The Story of the Weeping Camel, 935
+Up in the Air, 235
+The Princess and the Frog, 269
+Manon on the Asphalt, 466
+Y Tu Mamá También, 1251
+God of Love, 205
+The Kids Are All Right, 116
+Treasure Planet, 1163
+How to Train Your Dragon, 133
+Asylum, 1065
+Bright Star, 282
+Sound and Fury, 1432
+Fait D''Hiver, 1226
+True Grit, 102
+Our Time Is Up, 855
+Nine, 261
+Zus & Zo, 1203
+Winged Migration, 1189
+Atonement, 526
+Strangers No More, 163
+Shrek 2, 913
+Balseros, 1060
+Sideways, 889
+Mighty Times: The Children''s March, 942
+Destino, 1097
+Lavatory - Lovestory, 461
+The Last Campaign of Governor Booth Gardner, 298
+The White Ribbon, 281
+The Witness - From the Balcony of Room 306, 433
+Mystic River, 1011
+The Last Farm, 854
+Tangled, 185
+Six Shooter, 856
+The Savages, 518
+The Crush, 204
+The Black Dahlia, 666
+Good Night, and Good Luck., 761
+Everything in This Country Must, 977
+Freeheld, 559
+The Motorcycle Diaries, 963
+Training Day, 1258
+Ratatouille, 532
+Prisoner of Paradise, 1187
+The Class, 440
+Frida, 1146
+Waste Land, 160
+The King''s Speech, 106
+Maria Full of Grace, 898
+Granny O''Grimm's Sleeping Beauty, 336
+A Prophet, 309
+Blue Valentine, 125
+Transformers: Revenge of the Fallen, 349
+The Time Machine, 1205
+China''s Unnatural Disaster: The Tears of Sichuan Province, 297
+The Saviour, 728
+Batman Begins, 796
+Adaptation, 1129
+The Man without a Past, 1201
+Binta and the Great Idea (Binta Y La Gran Idea), 725
+French Roast, 335
+The Curious Case of Benjamin Button, 374
+Brother Bear, 1037
+The Cell, 1448
+The Cooler, 1013
+Zelary, 1077
+The Little Matchgirl, 722
+Minority Report, 1237
+Surf''s Up, 533
+Birthday Boy, 972
+Seraglio, 1472
+The Last Truck: Closing of a GM Plant, 299
+Hellboy II: The Golden Army, 446
+About Schmidt, 1135
+American Gangster, 524
+The ChubbChubbs!, 1222
+West Bank Story, 729
+Kate & Leopold, 1337
+The Way Back, 177
+Born into Brothels, 934
+Boundin'', 1096
+Mulholland Drive, 1306
+Lifted, 721
+The Passion of the Christ, 921
+The Village, 961
+Don''t Tell, 826
+At Night, 596
+127 Hours, 108
+Quiero Ser (I want to be...), 1471
+Star Trek, 313
+Pirates of the Caribbean: Dead Man''s Chest, 664
+The Periwig-Maker, 1467
+Rachel Getting Married, 387
+Days of Glory (Indigènes), 698
+Little Terrorist, 978
+No End in Sight, 554
+The Danish Poet, 720
+Killing in the Name, 161
+The Blood of Yingzhou District, 688
+Revanche, 442
+The Town, 114
+The Fog of War, 1062
+Man on Wire, 428
+O Brother, 1416
+Transamerica, 774
+Changeling, 389
+Harry Potter and the Half-Blood Prince, 278
+A History of Violence, 770
+Ryan, 976
+Oktapodi, 462
+This Way Up, 464
+Tropic Thunder, 379
+Madagascar, 202
+God Sleeps in Rwanda, 818
+The Bourne Ultimatum, 563
+My Love (Moya Lyubov), 594
+Sing!, 1314
+The Cathedral, 1221
+Food, 294
+The Aviator, 882
+Ghost World, 1365
+Collateral, 891
+102 Dalmatians, 1421
+Everybody Famous!, 1446
+In America, 1017
+The Duchess, 408
+The Queen, 647
+Cast Away, 1378
+Water, 701
+Darwin''s Nightmare, 812
+A.I. Artificial Intelligence, 1329
+El Crimen del Padre Amaro, 1199
+Bridget Jones''s Diary, 1276
+Walk the Line, 759
+Requiem for a Dream, 1396
+Recycled Life, 689
+Erin Brockovich, 1390
+Julie & Julia, 259
+Il Divo, 312
+Good Night, 791
+Day & Night, 198
+Sherlock Holmes, 275
+Logorama, 338
+Syriana, 763
+A Soccer Story (Uma Historia de Futebol), 1473
+Tron: Legacy, 215
+The Pianist, 1127
+Iris, 1262
+Twin Sisters, 1076
+Pieces of April, 1031
+Capote, 753
+Inglourious Basterds, 250
+Little Miss Sunshine, 634
+The Children of Leningradsky, 940
+In the Valley of Elah, 499
+Badgered, 847
+Charlie Wilson''s War, 507
+The Polar Express, 964
+The Lovely Bones, 248
+Lilo & Stitch, 1160
+The Conscience of Nhem En, 430
+Enchanted, 582
+Venus, 628
+My Country, 687
+Avatar, 272
+Memoirs of a Geisha, 794
+The Wrestler, 376
+Kinsey, 906
+Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, 743
+The Counterfeiters, 569
+Exit through the Gift Shop, 156
+Madame Tutli-Putli, 592
+Hotel Rwanda, 878
+I''m Not There, 522
+By Courier, 1469
+Vanilla Sky, 1338
+Defiance, 448
+Sun Come Up, 164
+Into the Arms of Strangers: Stories of the Kindertransport, 1428
+Notes on a Scandal, 645
+Downfall, 951
+Guard Dog, 974
+Revolutionary Road, 385
+House of Flying Daggers, 920
+Dirty Pretty Things, 1123
+Let''s Pollute, 200
+Harry Potter and the Sorcerer''s Stone, 1289
+Outside the Law (Hors-la-loi), 175
+Son of the Bride, 1325
+Gladiator, 1376
+Monster''s Ball, 1270
+The Tempest, 149
+Twin Towers, 1192
+Alice in Wonderland, 136
+Hereafter, 220
+The Lives of Others, 699
+Squash, 1103
+Spider-Man 2, 986
+Winter''s Bone, 112
+A Single Man, 237
+Before Sunset, 993
+The Mysterious Geographic Explorations of Jasper Morello, 849
+Another Year, 228
+Babel, 652
+The Secret in Their Eyes, 310
+Smile Pinki, 432
+Tim Burton''s Corpse Bride, 789
+Two Hands, 691
+Chicago, 1142
+Biutiful, 100
+For the Birds, 1345
+Persepolis, 531
+Gregor''s Greatest Invention, 1351
+City of God, 1045
+(A) Torzija [(A) Torsion], 1104
+The Emperor''s New Groove, 1459
+Million Dollar Baby, 884
+Coraline, 267
+The Pig, 468
+Trouble the Water, 429
+Catch Me If You Can, 1144
+Sari''s Mother, 562
+Toy Story 3, 135
+Doubt, 381
+3:10 to Yuma, 580
+Rejected, 1468
+The Golden Compass, 536
+United 93, 681
+Into the Wild, 509
+Michael Clayton, 493
+Black Hawk Down, 1293
+The Prestige, 665
+Brokeback Mountain, 757
+Twist of Faith, 938
+Cold Mountain, 1007
+Up, 271
+No Time for Nuts, 724
+The Assassination of Jesse James by the Coward Robert Ford, 503
+Pan''s Labyrinth, 663
+After the Wedding, 697
+American Splendor, 1117
+The Garden, 427
+About a Boy, 1242
+The Betrayal (Nerakhoon), 425
+Troy, 928
+Wasp, 981
+My Big Fat Greek Wedding, 1249
+Which Way Home, 296
+Being Julia, 896
+The Wild Thornberrys Movie, 1212
+Slumdog Millionaire, 414
+Happy Feet, 659
+Inside Job, 158
+Juno, 520
+Frozen River, 391
+The Tonto Woman, 600
+Die Rote Jacke (The Red Jacket), 1101
+Spirited Away, 1162
+March of the Penguins, 814
+Father and Daughter, 1466
+Star Wars: Episode III Revenge of the Sith, 833
+Ajami, 307
+Nibbles, 1100
+Wanted, 474
+I Met the Walrus, 591
+Junebug, 781
+Poster Girl, 162
+The Royal Tenenbaums, 1373
+The Messenger, 244
+August Rush, 583
+You Can Count on Me, 1398
+Daughter from Danang, 1186
+12, 572
+7:35 in the Morning (7:35 de la Mañana), 979
+Lost in Translation, 1009
+Country Strong, 184
+Dolphins, 1435
+The Young Victoria, 276
+Sister Rose''s Passion, 943
+The Diving Bell and the Butterfly, 541
+Howl''s Moving Castle, 788
+Marie Antoinette, 674
+Wallace & Gromit in The Curse of the Were-Rabbit, 790
+No Country for Old Men, 505
+Half Nelson, 626
+Talk to Her, 1183
+King Kong, 793
+War Photographer, 1312
+Children Underground, 1308
+In a Better World, 173
+Apocalypto, 702
+Malèna, 1415
+Joyeux Noël, 827
+Elling, 1322
+Long Night''s Journey into Day, 1430
+Monster House, 660
+Speed for Thespians, 1353
+The Final Inch, 431
+Incendies, 174
+Letters from Iwo Jima, 678
+Across the Universe, 544
+Pirates of the Caribbean: At World''s End, 575
+Dr. Seuss'' How the Grinch Stole Christmas, 1409
+Johnny Flynton, 1229
+The Lord of the Rings: The Fellowship of the Ring, 1267
+The Baader Meinhof Complex, 439
+District 9, 303
+Tupac: Resurrection, 937
+The Hurt Locker, 241
+Departures, 441
+Murderball, 815
+La Corona (The Crown), 560
+A Man Thing (Meska Sprawa), 1352
+Pollock, 1380
+The New Tenants, 344
+Na Wewe, 206
+The Constant Gardener, 785
+Tanghi Argentini, 599
+Almost Famous, 1403
+The Departed, 641
+On Tiptoe: Gentle Steps to Freedom, 1437
+Thoth, 1315
+Shadow of the Vampire, 1386
+Ray, 886
+Mongol, 571
+The Man Who Wasn''t There, 1295
+Moulin Rouge, 1273
+Eternal Sunshine of the Spotless Mind, 903
+The Squid and the Whale, 876
+Presto, 463
+In the Loop, 360
+Whale Rider, 1022
+North Country, 778
+The Milk of Sorrow, 308
+The Door, 340
+In Bruges, 490
+Autism Is a World, 939
+The Lord of the Rings: The Return of the King, 1042
+Kavi, 342
+Pride & Prejudice, 776
+Billy Elliot, 1406
+The Reader, 394
+Dogtooth, 172
+A Very Long Engagement, 918
+My Architect, 1063
+Nowhere in Africa, 1202
+Pirates of the Caribbean: The Curse of the Black Pearl, 1003
+The Good German, 706
+Seabiscuit, 1044
+Peter & the Wolf, 595
+Lagaan, 1323
+Mt. Head, 1225
+La Maison en Petits Cubes, 460
+The Warriors of Qiugang, 165
+Ausreisser (The Runaway), 852
+Memento, 1319
+Hero, 1200
+Once, 581
+Inja (Dog), 1228
+The Cove, 293
+Gosford Park, 1279
+Cinderella Man, 767
+Jimmy Neutron: Boy Genius, 1284
+As It Is in Heaven, 949
+The Taste of Others, 1447
+Something''s Gotta Give, 1024
+The Death of Kevin Carter: Casualty of the Bang Bang Club, 817
+The Imaginarium of Doctor Parnassus, 273
+Restrepo, 159
+The Pursuit of Happyness, 630
+Milk, 372
+The Devil Wears Prada, 649
+Divided We Fall, 1445
+Shrek, 1286
+Bolt, 402
+The Illusionist, 134
+Curtain Call, 1434
+Wish 143, 207
+Hollow Man, 1482
+Frost/Nixon, 370
+Barney''s Version, 176
+Fifty Percent Grey, 1344
+Shark Tale, 912
+Hustle & Flow, 755
+Sicko, 556
+Harvie Krumpet, 1099
+Das Rad, 1223
+One Day Crossing, 1470
+The Dark Knight, 383
+La Vie en Rose, 516
+Animal Kingdom, 131
+Murder on a Sunday Morning, 1310
+Fantastic Mr. Fox, 268
+Spider-Man, 1235
+Salt, 210
+The Quiet American, 1131
+Auf der Strecke (On the Line), 465
+Beaufort, 568
+Coco before Chanel, 283
+Kung Fu Panda, 403
+Volver, 643
+Inception, 138
+Artists and Orphans: A True Drama, 1313
+Waltz with Bashir, 443
+Salim Baba, 561
+Amélie, 1287
+An Inconvenient Truth, 684
+Strange Invaders, 1347
+I Am Love, 147
+Cashback, 853
+War/Dance, 558
+Invictus, 239
+Norbit, 574
+Unfaithful, 1149
+The Weather Underground, 1064
+Instead of Abracadabra, 341
+Little Children, 636
+WALL-E, 404
+The Patriot, 1417
+Hardwood, 941
+Amores Perros, 1443
+Spirit: Stallion of the Cimarron, 1161
+Harry Potter and the Goblet of Fire, 792
+Rabbit à la Berlin, 301
+Paradise Now, 828
+The Last Samurai, 1020
+I Am Sam, 1254
+War of the Worlds, 861
+Thirteen, 1034
+The Mushroom Club, 819
+Unstoppable, 217
+Éramos Pocos (One Too Many), 726
+The Lord of the Rings: The Two Towers, 1167
+Ferry Tales, 1067
+the accountant, 1349
+The Visitor, 368
+Tsotsi, 830
+The Moon and the Son: An Imagined Conversation, 848
+Dreamgirls, 639
+U-571, 1478
+21 Grams, 1015
+Maestro, 723
+Harry Potter and the Prisoner of Azkaban, 958
+One Man Band, 851
+The Confession, 203
+An Education, 255
+Copy Shop, 1350
+Big Mama, 1433
+Far from Heaven, 1151
+The Blind Side, 252
+Iron Man 2, 222
+Master and Commander: The Far Side of the World, 1043
+Blood Diamond, 624
+Lemony Snicket''s A Series of Unfortunate Events, 916
+There Will Be Blood, 495
+Mrs. Henderson Presents, 772
+No Man''s Land, 1324
+Gasland, 157
+The Chorus (Les Choristes), 950
+Finding Nemo, 1038
+The Chronicles of Narnia: The Lion, 831
+Traffic, 1388
+Curse of the Golden Flower, 671
+Precious: Based on the Novel ''Push' by Sapphire, 257
+Promises, 1311
+Music by Prudence, 300
+LaLee''s Kin: The Legacy of Cotton, 1309
+The Gruffalo, 199
+Superman Returns, 742
+Vatel, 1412
+Vera Drake, 900
+The Triplets of Belleville, 1039
+House of Sand and Fog, 1005
+The Wolfman, 178
+Ali, 1256
+Eastern Promises, 501
+Monsters, 1285
+Stubble Trouble, 1348
+The Lost Thing, 201
+Harry Potter and the Deathly Hallows Part 1, 137
+Street Fight, 816
+Children of Men, 667
+Finding Neverland, 880
+Iron Man, 476
+Katyn, 570
+Lars and the Real Girl, 620
+Evil, 1074
+Wonder Boys, 1442
+Why Can''t We Be a Family Again?, 1193
+The Sea Inside, 952
+Most (The Bridge), 1102
+Chocolat, 1394
+Gangs of New York, 1133
+Happy-Go-Lucky, 489
+A Serious Man, 332
+Bowling for Columbine, 1185
+Operation Homecoming: Writing the Wartime Experience, 555
+The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers, 295
+Chernobyl Heart, 1066
+Elizabeth: The Golden Age, 512
+Burma VJ, 292
+I''ll Wait for the Next One... (J'Attendrai Le Suivant...), 1227
+The Man on Lincoln''s Nose, 1436
+Spellbound, 1188
+Vicky Cristina Barcelona, 397
+Crash, 765
+Sophie Scholl - The Final Days, 829
+Gone Baby Gone, 528
+Give Up Yer Aul Sins, 1346
+The Phantom of the Opera, 917
+Yesterday, 953
+The Lady and the Reaper (La Dama y la Muerte), 337
+This Charming Man (Der Er En Yndig Mand), 1230
+Rehearsing a Dream, 690
+Encounters at the End of the World, 426
+The Twilight Samurai, 1075
+The Social Network, 104
+Girl with a Pearl Earring, 1040
+Il Supplente (The Substitute), 597
+Gopher Broke, 973
+Mike''s New Car, 1224
+The Good Shepherd, 662
+Enron: The Smartest Guys in the Room, 813
+The Contender, 1384
+In the Bedroom, 1260
+Crazy Heart, 233
+Match Point, 875
+Flags of Our Fathers, 733
+Two Cars, 980
+Australia, 415
+Two Soldiers, 1105
+Road to Perdition, 1140
+Pearl Harbor, 1336
+Quills, 1382
+Munich, 810
+Le Mozart des Pickpockets (The Mozart of Pickpockets), 598
+Iraq in Fragments, 685
+Même les Pigeons Vont au Paradis (Even Pigeons Go to Heaven), 593
+Star Wars Episode II Attack of the Clones, 1241
+Mighty Times: The Legacy of Rosa Parks, 1191
+Ice Age, 1159
+Sexy Beast, 1265
+Cars, 658
+Closer, 894
+A Matter of Loaf and Death, 339
+A Note of Triumph: The Golden Age of Norman Corwin, 820

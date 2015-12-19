@@ -1,0 +1,55 @@
+SELECT P.Name, A.Name, A.Year, A.Win, Pl.City, Pl.State, Pl.Country
+FROM Person as P, Place as Pl, Award as A
+WHERE P.NominatedFor = A.ID AND
+	P.BirthPlace = Pl.ID AND
+	Pl.Country = 'Spain' AND
+	A.Agency = 'AMPAS';
+	
+SELECT COUNT(F.NominatedFor) as NumNoms, F.Name, A.Year
+FROM Film as F, Award as A
+WHERE A.ID = F.NominatedFor AND
+	A.Agency = 'AMPAS'
+GROUP BY F.ID
+HAVING NumNoms > 4
+ORDER BY NumNoms ASC;
+
+SELECT Y.Pname as NomineeName, A.Year-Y.Birthyear as Age, Y.Fname as FilmTitle, A.Win as Win
+FROM 	(SELECT DISTINCT EXTRACT(year from P.DOB) as Birthyear, P.Name as Pname, P.NominatedFor as NomFor, F.Name as Fname
+		FROM Person as P, Film as F, Place as Pl
+		WHERE P.DOB IS NOT NULL
+		AND P.InFilm = F.ID
+		AND Pl.ID = P.BirthPlace
+		AND Pl.State = 'New York') as Y, Award as A
+WHERE A.Agency = 'AMPAS' AND
+	A.ID = Y.NomFor
+HAVING Age < 31
+ORDER BY Age ASC;
+
+SELECT DISTINCT F1.Name as Title, F1.Year, P1.Name as Actor
+FROM Film F1, Film F2, Person P1, Person P2, Award A1, Award A2
+WHERE A1.Agency = 'HFPA'
+and A2.Agency = 'AMPAS'
+and A1.ID != A2.ID
+and A1.Name = 'Best Performance by an Actor In A Supporting Role'
+and A2.Name =  'Actor -- Supporting Role'
+and A1.Win = 'YES'
+and A2.Win = 'NO'
+and P1.NominatedFor = A1.ID
+and P1.InFilm = F1.ID
+and F1.ID = F2.ID
+and P1.Email = P2.Email
+and P2.NominatedFor = A2.ID
+and P2.InFilm = F2.ID
+GROUP BY F1.Name;
+
+SELECT DISTINCT F1.Name as Title, F1.Year, P1.Name as Actress, Pl.Country, A1.Win
+FROM Film as F1, Film as F2, Person as P1, Person as P2, Place as Pl, Award as A1, Award as A2
+WHERE A1.Agency = 'AMPAS' AND A2.Agency = 'AMPAS'
+AND A1.Name = 'Actress -- Supporting Role' AND A2.Name = 'Actress -- Supporting Role'
+AND A1.ID != A2.ID
+AND A1.ID = P1.NominatedFor AND A2.ID = P2.NominatedFor
+AND P1.Email = P2.Email AND P1.NominatedFor != P2.NominatedFor
+AND P1.InFilm = F1.ID AND P2.InFilm = F2.ID
+AND P1.BirthPlace = Pl.ID AND Pl.Country != 'USA'
+GROUP BY F1.Name
+ORDER BY P1.Name ASC;

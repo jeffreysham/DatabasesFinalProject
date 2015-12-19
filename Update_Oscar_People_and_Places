@@ -1,0 +1,931 @@
+UPDATE Person
+SET DOB = '1937-06-01', BirthPlace = '100'
+WHERE Name = 'Morgan Freeman';
+
+UPDATE Person
+SET DOB = '1973-08-06', BirthPlace = '101'
+WHERE Name = 'Vera Farmiga';
+
+UPDATE Person
+SET DOB = '1976-03-22', BirthPlace = '102'
+WHERE Name = 'Reese Witherspoon';
+
+UPDATE Person
+SET DOB = '1948-06-28', BirthPlace = '100'
+WHERE Name = 'Kathy Bates';
+
+UPDATE Person
+SET DOB = '1980-09-09', BirthPlace = '103'
+WHERE Name = 'Michelle Williams';
+
+UPDATE Person
+SET DOB = '1933-08-18', BirthPlace = '104'
+WHERE Name = 'Roman Polanski';
+
+UPDATE Person
+SET DOB = '1951-11-27', BirthPlace = '105', Sex = 'F'
+WHERE Name = 'Kathryn Bigelow';
+
+UPDATE Person
+SET DOB = '1978-04-19', BirthPlace = '106'
+WHERE Name = 'James Franco';
+
+UPDATE Person
+SET DOB = '1964-10-03', BirthPlace = '107'
+WHERE Name = 'Clive Owen';
+
+UPDATE Person
+SET DOB = '1947-05-25', BirthPlace = '108'
+WHERE Name = 'Jacki Weaver';
+
+UPDATE Person
+SET DOB = '1959-12-29', BirthPlace = '102'
+WHERE Name = 'Patricia Clarkson';
+
+UPDATE Person
+SET DOB = '1972-12-29', BirthPlace = '109'
+WHERE Name = 'Jude Law';
+
+UPDATE Person
+SET DOB = '1949-01-26', BirthPlace = '110'
+WHERE Name = 'David Strathairn';
+
+UPDATE Person
+SET DOB = '1954-10-23', BirthPlace = '111'
+WHERE Name = 'Ang Lee';
+
+UPDATE Person
+SET DOB = '1974-08-22', BirthPlace = '112'
+WHERE Name = 'Amy Adams';
+
+UPDATE Person
+SET DOB = '1937-04-22', BirthPlace = '113'
+WHERE Name = 'Jack Nicholson';
+
+UPDATE Person
+SET DOB = '1961-07-15', BirthPlace = '114'
+WHERE Name = 'Forest Whitaker';
+
+UPDATE Person
+SET DOB = '1970-09-11', BirthPlace = '115'
+WHERE Name = 'Taraji P. Henson';
+
+UPDATE Person
+SET DOB = '1956-10-20', BirthPlace = '116'
+WHERE Name = 'Danny Boyle';
+
+UPDATE Person
+SET DOB = '1965-05-24', BirthPlace = '117'
+WHERE Name = 'John C. Reilly';
+
+UPDATE Person
+SET DOB = '1987-02-21', BirthPlace = '118'
+WHERE Name = 'Ellen Page';
+
+UPDATE Person
+SET DOB = '1959-09-11', BirthPlace = '119'
+WHERE Name = 'John Hawkes';
+
+UPDATE Person
+SET DOB = '1985-03-26', BirthPlace = '120'
+WHERE Name = 'Keira Knightley';
+
+UPDATE Person
+SET DOB = '1963-08-15', BirthPlace = '121'
+WHERE Name = 'Alejandro González Iñárritu';
+
+UPDATE Person
+SET DOB = '1964-04-26', BirthPlace = '122'
+WHERE Name = 'Djimon Hounsou';
+
+UPDATE Person
+SET DOB = '1958-10-16', BirthPlace = '123'
+WHERE Name = 'Tim Robbins';
+
+UPDATE Person
+SET DOB = '1965-04-04', BirthPlace = '113'
+WHERE Name = 'Robert Downey Jr.';
+
+UPDATE Person
+SET DOB = '1964-04-07', BirthPlace = '124'
+WHERE Name = 'Russell Crowe';
+
+UPDATE Person
+SET DOB = '1961-05-02', BirthPlace = '125'
+WHERE Name = 'Stephen Daldry';
+
+UPDATE Person
+SET DOB = '1951-07-06', BirthPlace = '126'
+WHERE Name = 'Geoffrey Rush';
+
+UPDATE Person
+SET DOB = '1922-10-27', BirthPlace = '127'
+WHERE Name = 'Ruby Dee';
+
+UPDATE Person
+SET DOB = '1943-02-20', BirthPlace = '128'
+WHERE Name = 'Mike Leigh';
+
+UPDATE Person
+SET DOB = '1938-01-01', BirthPlace = '129'
+WHERE Name = 'Frank Langella';
+
+UPDATE Person
+SET DOB = '1943-03-31', BirthPlace = '113'
+WHERE Name = 'Christopher Walken';
+
+UPDATE Person
+SET DOB = '1996-12-11', BirthPlace = '130'
+WHERE Name = 'Hailee Steinfeld';
+
+UPDATE Person
+SET DOB = '1947-05-04', BirthPlace = '131'
+WHERE Name = 'Richard Jenkins';
+
+UPDATE Person
+SET DOB = '1950-09-21', BirthPlace = '132'
+WHERE Name = 'Bill Murray';
+
+UPDATE Person
+SET DOB = '1956-09-11', BirthPlace = '113'
+WHERE Name = 'Tony Gilroy';
+
+UPDATE Person
+SET DOB = '1969-02-12', BirthPlace = '113'
+WHERE Name = 'Darren Aronofsky';
+
+UPDATE Person
+SET DOB = '1971-06-05', BirthPlace = '133'
+WHERE Name = 'Mark Wahlberg';
+
+UPDATE Person
+SET DOB = '1932-08-02', BirthPlace = '134'
+WHERE Name = 'Peter O''Toole';
+
+UPDATE Person
+SET DOB = '1971-01-07', BirthPlace = '135'
+WHERE Name = 'Jeremy Renner';
+
+UPDATE Person
+SET DOB = '1966-05-26', BirthPlace = '134'
+WHERE Name = 'Helena Bonham Carter';
+
+UPDATE Person
+SET DOB = '1925-01-26', BirthPlace = '136'
+WHERE Name = 'Paul Newman';
+
+UPDATE Person
+SET DOB = '1966-09-02', BirthPlace = '137'
+WHERE Name = 'Salma Hayek';
+
+UPDATE Person
+SET DOB = '1963-12-18', BirthPlace = '138'
+WHERE Name = 'Brad Pitt';
+
+UPDATE Person
+SET DOB = '1961-09-11', BirthPlace = '117'
+WHERE Name = 'Virginia Madsen';
+
+UPDATE Person
+SET DOB = '1974-07-30', BirthPlace = '139'
+WHERE Name = 'Hilary Swank';
+
+UPDATE Person
+SET DOB = '1946-01-05', BirthPlace = '130'
+WHERE Name = 'Diane Keaton';
+
+UPDATE Person
+SET DOB = '1969-03-11', BirthPlace = '117'
+WHERE Name = 'Terrence Howard';
+
+UPDATE Person
+SET DOB = '1967-02-19', BirthPlace = '140'
+WHERE Name = 'Benicio Del Toro';
+
+UPDATE Person
+SET DOB = '1973-04-14', BirthPlace = '113'
+WHERE Name = 'Adrien Brody';
+
+UPDATE Person
+SET DOB = '1981-06-09', BirthPlace = '141'
+WHERE Name = 'Natalie Portman';
+
+UPDATE Person
+SET DOB = '1974-08-07', BirthPlace = '142'
+WHERE Name = 'Michael Shannon';
+
+UPDATE Person
+SET DOB = '1970-03-18', BirthPlace = '143'
+WHERE Name = 'Queen Latifah';
+
+UPDATE Person
+SET DOB = '1956-07-09', BirthPlace = '144'
+WHERE Name = 'Tom Hanks';
+
+UPDATE Person
+SET DOB = '1964-02-05', BirthPlace = '113'
+WHERE Name = 'Laura Linney';
+
+UPDATE Person
+SET DOB = '1938-12-29', BirthPlace = '145'
+WHERE Name = 'Jon Voight';
+
+UPDATE Person
+SET DOB = '1951-07-09', BirthPlace = '146'
+WHERE Name = 'Chris Cooper';
+
+UPDATE Person
+SET DOB = '1960-08-17', BirthPlace = '147'
+WHERE Name = 'Sean Penn';
+
+UPDATE Person
+SET DOB = '1929-12-13', BirthPlace = '148'
+WHERE Name = 'Christopher Plummer';
+
+UPDATE Person
+SET DOB = '1960-11-05', BirthPlace = '134'
+WHERE Name = 'Tilda Swinton';
+
+UPDATE Person
+SET DOB = '1932-12-07', BirthPlace = '149'
+WHERE Name = 'Ellen Burstyn';
+
+UPDATE Person
+SET DOB = '1936-01-28', BirthPlace = '113'
+WHERE Name = 'Alan Alda';
+
+UPDATE Person
+SET DOB = '1955-07-22', BirthPlace = '150'
+WHERE Name = 'Willem Dafoe';
+
+UPDATE Person
+SET DOB = '1937-11-30', BirthPlace = '151'
+WHERE Name = 'Ridley Scott';
+
+UPDATE Person
+SET DOB = '1963-06-09', BirthPlace = '152'
+WHERE Name = 'Johnny Depp';
+
+UPDATE Person
+SET DOB = '1981-09-12', BirthPlace = '117'
+WHERE Name = 'Jennifer Hudson';
+
+UPDATE Person
+SET DOB = '1990-03-24', BirthPlace = '153'
+WHERE Name = 'Keisha Castle-Hughes';
+
+UPDATE Person
+SET DOB = '1975-06-04', BirthPlace = '130'
+WHERE Name = 'Angelina Jolie';
+
+UPDATE Person
+SET DOB = '1964-11-29', BirthPlace = '146'
+WHERE Name = 'Don Cheadle';
+
+UPDATE Person
+SET DOB = '1955-11-09', BirthPlace = '154'
+WHERE Name = 'Fernando Meirelles';
+
+UPDATE Person
+SET DOB = '1965-08-11', BirthPlace = '155'
+WHERE Name = 'Viola Davis';
+
+UPDATE Person
+SET DOB = '1977-10-19', BirthPlace = '156'
+WHERE Name = 'Jason Reitman';
+
+UPDATE Person
+SET DOB = '1970-11-06', BirthPlace = '157'
+WHERE Name = 'Ethan Hawke';
+
+UPDATE Person
+SET DOB = '1977-11-16', BirthPlace = '113'
+WHERE Name = 'Maggie Gyllenhaal';
+
+UPDATE Person
+SET DOB = '1970-06-26', BirthPlace = '158'
+WHERE Name = 'Paul Thomas Anderson';
+
+UPDATE Person
+SET DOB = '1996-04-14', BirthPlace = '113'
+WHERE Name = 'Abigail Breslin';
+
+UPDATE Person
+SET DOB = '1958-10-20', BirthPlace = '113'
+WHERE Name = 'Viggo Mortensen';
+
+UPDATE Person
+SET DOB = '1981-01-06', BirthPlace = '159'
+WHERE Name = 'Rinko Kikuchi';
+
+UPDATE Person
+SET DOB = '1977-05-13', BirthPlace = '160'
+WHERE Name = 'Samantha Morton';
+
+UPDATE Person
+SET DOB = '1974-01-30', BirthPlace = '161'
+WHERE Name = 'Christian Bale';
+
+UPDATE Person
+SET DOB = '1957-06-23', BirthPlace = '117'
+WHERE Name = 'Frances McDormand';
+
+UPDATE Person
+SET DOB = '1969-09-25', BirthPlace = '162'
+WHERE Name = 'Catherine Zeta-Jones';
+
+UPDATE Person
+SET DOB = '1958-05-29', BirthPlace = '163'
+WHERE Name = 'Annette Bening';
+
+UPDATE Person
+SET DOB = '1960-12-03', BirthPlace = '164'
+WHERE Name = 'Julianne Moore';
+
+UPDATE Person
+SET DOB = '1961-02-10', BirthPlace = '165'
+WHERE Name = 'Alexander Payne';
+
+UPDATE Person
+SET DOB = '1959-12-24', BirthPlace = '166'
+WHERE Name = 'Lee Daniels';
+
+UPDATE Person
+SET DOB = '1972-10-01', BirthPlace = '134'
+WHERE Name = 'Tom Hooper';
+
+UPDATE Person
+SET DOB = '1954-11-29', BirthPlace = '167'
+WHERE Name = 'Joel Coen';
+
+UPDATE Person
+SET DOB = '1957-09-21', BirthPlace = '167'
+WHERE Name = 'Ethan Coen';
+
+UPDATE Person
+SET DOB = '1981-04-19', BirthPlace = '168'
+WHERE Name = 'Catalina Sandino Moreno';
+
+UPDATE Person
+SET DOB = '1964-07-26', BirthPlace = '169'
+WHERE Name = 'Sandra Bullock';
+
+UPDATE Person
+SET DOB = '1934-03-26', BirthPlace = '113'
+WHERE Name = 'Alan Arkin';
+
+UPDATE Person
+SET DOB = '1949-12-25', BirthPlace = '170'
+WHERE Name = 'Sissy Spacek';
+
+UPDATE Person
+SET DOB = '1959-08-14', BirthPlace = '171'
+WHERE Name = 'Marcia Gay Harden';
+
+UPDATE Person
+SET DOB = '1969-05-14', BirthPlace = '172'
+WHERE Name = 'Cate Blanchett';
+
+UPDATE Person
+SET DOB = '1967-06-20', BirthPlace = '173'
+WHERE Name = 'Nicole Kidman';
+
+UPDATE Person
+SET DOB = '1983-10-05', BirthPlace = '113'
+WHERE Name = 'Jesse Eisenberg';
+
+UPDATE Person
+SET DOB = '1969-04-25', BirthPlace = '174'
+WHERE Name = 'Renée Zellweger';
+
+UPDATE Person
+SET DOB = '1964-03-09', BirthPlace = '104'
+WHERE Name = 'Juliette Binoche';
+
+UPDATE Person
+SET DOB = '1949-09-25', BirthPlace = '175'
+WHERE Name = 'Pedro Almodóvar';
+
+UPDATE Person
+SET DOB = '1985-05-28', BirthPlace = '134'
+WHERE Name = 'Carey Mulligan';
+
+UPDATE Person
+SET DOB = '1974-11-11', BirthPlace = '130'
+WHERE Name = 'Leonardo DiCaprio';
+
+UPDATE Person
+SET DOB = '1960-10-17', BirthPlace = '176'
+WHERE Name = 'Rob Marshall';
+
+UPDATE Person
+SET DOB = '1975-08-07', BirthPlace = '177'
+WHERE Name = 'Charlize Theron';
+
+UPDATE Person
+SET DOB = '1964-02-18', BirthPlace = '178'
+WHERE Name = 'Matt Dillon';
+
+UPDATE Person
+SET DOB = '1953-03-10', BirthPlace = '179'
+WHERE Name = 'Paul Haggis';
+
+UPDATE Person
+SET DOB = '1925-02-20', BirthPlace = '146'
+WHERE Name = 'Robert Altman';
+
+UPDATE Person
+SET DOB = '1967-10-28', BirthPlace = '180'
+WHERE Name = 'Julia Roberts';
+
+UPDATE Person
+SET DOB = '1950-02-22', BirthPlace = '181'
+WHERE Name = 'Julie Walters';
+
+UPDATE Person
+SET DOB = '1941-06-20', BirthPlace = '182'
+WHERE Name = 'Stephen Frears';
+
+UPDATE Person
+SET DOB = '1956-08-20', BirthPlace = '183'
+WHERE Name = 'Joan Allen';
+
+UPDATE Person
+SET DOB = '1951-10-26', BirthPlace = '113'
+WHERE Name = 'Julian Schnabel';
+
+UPDATE Person
+SET DOB = '1952-09-16', BirthPlace = '184'
+WHERE Name = 'Mickey Rourke';
+
+UPDATE Person
+SET DOB = '1962-08-28', BirthPlace = '185'
+WHERE Name = 'David Fincher';
+
+UPDATE Person
+SET DOB = '1960-09-14', BirthPlace = '113'
+WHERE Name = 'Melissa Leo';
+
+UPDATE Person
+SET DOB = '1946-09-15', BirthPlace = '186'
+WHERE Name = 'Tommy Lee Jones';
+
+UPDATE Person
+SET DOB = '1985-08-09', BirthPlace = '187'
+WHERE Name = 'Anna Kendrick';
+
+UPDATE Person
+SET DOB = '1979-04-19', BirthPlace = '130'
+WHERE Name = 'Kate Hudson';
+
+UPDATE Person
+SET DOB = '1970-12-12', BirthPlace = '188'
+WHERE Name = 'Jennifer Connelly';
+
+UPDATE Person
+SET DOB = '1982-11-12', BirthPlace = '113'
+WHERE Name = 'Anne Hathaway';
+
+UPDATE Person
+SET DOB = '1970-03-07', BirthPlace = '134'
+WHERE Name = 'Rachel Weisz';
+
+UPDATE Person
+SET DOB = '1955-08-13', BirthPlace = '189'
+WHERE Name = 'Paul Greengrass';
+
+UPDATE Person
+SET DOB = '1975-10-05', BirthPlace = '190'
+WHERE Name = 'Kate Winslet';
+
+UPDATE Person
+SET DOB = '1956-03-05', BirthPlace = '191'
+WHERE Name = 'Adriana Barraza';
+
+UPDATE Person
+SET DOB = '1968-02-12', BirthPlace = '130'
+WHERE Name = 'Josh Brolin';
+
+UPDATE Person
+SET DOB = '1962-12-09', BirthPlace = '192'
+WHERE Name = 'Felicity Huffman';
+
+UPDATE Person
+SET DOB = '1975-08-12', BirthPlace = '193'
+WHERE Name = 'Casey Affleck';
+
+UPDATE Person
+SET DOB = '1983-05-06', BirthPlace = '113'
+WHERE Name = 'Gabourey Sidibe';
+
+UPDATE Person
+SET DOB = '1963-03-27', BirthPlace = '194'
+WHERE Name = 'Quentin Tarantino';
+
+UPDATE Person
+SET DOB = '1954-12-28', BirthPlace = '195'
+WHERE Name = 'Denzel Washington';
+
+UPDATE Person
+SET DOB = '1946-12-18', BirthPlace = '196'
+WHERE Name = 'Steven Spielberg';
+
+UPDATE Person
+SET DOB = '1967-12-13', BirthPlace = '197'
+WHERE Name = 'Jamie Foxx';
+
+UPDATE Person
+SET DOB = '1958-08-20', BirthPlace = '113'
+WHERE Name = 'David O. Russell';
+
+UPDATE Person
+SET DOB = '1960-11-11', BirthPlace = '198'
+WHERE Name = 'Stanley Tucci';
+
+UPDATE Person
+SET DOB = '1961-10-31', BirthPlace = '199'
+WHERE Name = 'Peter Jackson';
+
+UPDATE Person
+SET DOB = '1961-07-23', BirthPlace = '200'
+WHERE Name = 'Woody Harrelson';
+
+UPDATE Person
+SET DOB = '1954-03-01', BirthPlace = '201'
+WHERE Name = 'Ron Howard';
+
+UPDATE Person
+SET DOB = '1974-04-28', BirthPlace = '202'
+WHERE Name = 'Penélope Cruz';
+
+UPDATE Person
+SET DOB = '1944-12-31', BirthPlace = '203'
+WHERE Name = 'Taylor Hackford';
+
+UPDATE Person
+SET DOB = '1979-04-04', BirthPlace = '204'
+WHERE Name = 'Heath Ledger';
+
+UPDATE Person
+SET DOB = '1949-05-24', BirthPlace = '205'
+WHERE Name = 'Jim Broadbent';
+
+UPDATE Person
+SET DOB = '1930-05-31', BirthPlace = '110'
+WHERE Name = 'Clint Eastwood';
+
+UPDATE Person
+SET DOB = '1990-08-15', BirthPlace = '207'
+WHERE Name = 'Jennifer Lawrence';
+
+UPDATE Person
+SET DOB = '1967-11-22', BirthPlace = '206'
+WHERE Name = 'Mark Ruffalo';
+
+UPDATE Person
+SET DOB = '1950-11-28', BirthPlace = '208'
+WHERE Name = 'Ed Harris';
+
+UPDATE Person
+SET DOB = '1963-01-14', BirthPlace = '209'
+WHERE Name = 'Steven Soderbergh';
+
+UPDATE Person
+SET DOB = '1960-06-17', BirthPlace = '210'
+WHERE Name = 'Thomas Haden Church';
+
+UPDATE Person
+SET DOB = '1964-01-07', BirthPlace = '211'
+WHERE Name = 'Nicolas Cage';
+
+UPDATE Person
+SET DOB = '1925-02-17', BirthPlace = '127'
+WHERE Name = 'Hal Holbrook';
+
+UPDATE Person
+SET DOB = '1975-09-30', BirthPlace = '104'
+WHERE Name = 'Marion Cotillard';
+
+UPDATE Person
+SET DOB = '1933-03-14', BirthPlace = '134'
+WHERE Name = 'Michael Caine';
+
+UPDATE Person
+SET DOB = '1961-07-14', BirthPlace = '212'
+WHERE Name = 'Jackie Earle Haley';
+
+UPDATE Person
+SET DOB = '1961-05-06', BirthPlace = '142'
+WHERE Name = 'George Clooney';
+
+UPDATE Person
+SET DOB = '1961-04-03', BirthPlace = '113'
+WHERE Name = 'Eddie Murphy';
+
+UPDATE Person
+SET DOB = '1969-03-01', BirthPlace = '213'
+WHERE Name = 'Javier Bardem';
+
+UPDATE Person
+SET DOB = '1968-08-11', BirthPlace = '134'
+WHERE Name = 'Sophie Okonedo';
+
+UPDATE Person
+SET DOB = '1956-01-09', BirthPlace = '134'
+WHERE Name = 'Imelda Staunton';
+
+UPDATE Person
+SET DOB = '1971-05-14', BirthPlace = '113', Sex = 'F'
+WHERE Name = 'Sofia Coppola';
+
+UPDATE Person
+SET DOB = '1939-05-25', BirthPlace = '214'
+WHERE Name = 'Ian McKellan';
+
+UPDATE Person
+SET DOB = '1952-05-11', BirthPlace = '215'
+WHERE Name = 'Shohreh Aghdashloo';
+
+UPDATE Person
+SET DOB = '1934-12-28', BirthPlace = '216'
+WHERE Name = 'Maggie Smith';
+
+UPDATE Person
+SET DOB = '1965-01-22', BirthPlace = '113'
+WHERE Name = 'Diane Lane';
+
+UPDATE Person
+SET DOB = '1966-12-13', BirthPlace = '113'
+WHERE Name = 'Bennett Miller';
+
+UPDATE Person
+SET DOB = '1958-04-03', BirthPlace = '217'
+WHERE Name = 'Alec Baldwin';
+
+UPDATE Person
+SET DOB = '1966-08-14', BirthPlace = '127'
+WHERE Name = 'Halle Berry';
+
+UPDATE Person
+SET DOB = '1980-11-12', BirthPlace = '179'
+WHERE Name = 'Ryan Gosling';
+
+UPDATE Person
+SET DOB = '1968-09-25', BirthPlace = '166'
+WHERE Name = 'Will Smith';
+
+UPDATE Person
+SET DOB = '1936-05-09', BirthPlace = '128'
+WHERE Name = 'Albert Finney';
+
+UPDATE Person
+SET DOB = '1970-10-08', BirthPlace = '133'
+WHERE Name = 'Matt Damon';
+
+UPDATE Person
+SET DOB = '1994-04-12', BirthPlace = '113'
+WHERE Name = 'Saoirse Ronan';
+
+UPDATE Person
+SET DOB = '1949-12-04', BirthPlace = '130'
+WHERE Name = 'Jeff Bridges';
+
+UPDATE Person
+SET DOB = '1945-07-26', BirthPlace = '134'
+WHERE Name = 'Helen Mirren';
+
+UPDATE Person
+SET DOB = '1950-03-20', BirthPlace = '115'
+WHERE Name = 'William Hurt';
+
+UPDATE Person
+SET DOB = '1956-10-04', BirthPlace = '218'
+WHERE Name = 'Christoph Waltz';
+
+UPDATE Person
+SET DOB = '1946-01-20', BirthPlace = '219'
+WHERE Name = 'David Lynch';
+
+UPDATE Person
+SET DOB = '1934-12-09', BirthPlace = '220'
+WHERE Name = 'Judi Dench';
+
+UPDATE Person
+SET DOB = '1952-07-24', BirthPlace = '207'
+WHERE Name = 'Gus Van Sant';
+
+UPDATE Person
+SET DOB = '1942-11-17', BirthPlace = '113'
+WHERE Name = 'Martin Scorsese';
+
+UPDATE Person
+SET DOB = '1980-12-19', BirthPlace = '130'
+WHERE Name = 'Jake Gyllenhaal';
+
+UPDATE Person
+SET DOB = '1967-06-06', BirthPlace = '221'
+WHERE Name = 'Paul Giamatti';
+
+UPDATE Person
+SET DOB = '1968-05-03', BirthPlace = '113'
+WHERE Name = 'Amy Ryan';
+
+UPDATE Person
+SET DOB = '1968-09-28', BirthPlace = '222'
+WHERE Name = 'Naomi Watts';
+
+UPDATE Person
+SET DOB = '1954-08-16', BirthPlace = '223'
+WHERE Name = 'James Cameron';
+
+UPDATE Person
+SET DOB = '1959-10-21', BirthPlace = '224'
+WHERE Name = 'Ken Watanabe';
+
+UPDATE Person
+SET DOB = '1967-12-11', BirthPlace = '225'
+WHERE Name = 'Mo''Nique';
+
+UPDATE Person
+SET DOB = '1959-03-23', BirthPlace = '226'
+WHERE Name = 'Catherine Keener';
+
+UPDATE Person
+SET DOB = '1944-08-21', BirthPlace = '108'
+WHERE Name = 'Peter Weir';
+
+UPDATE Person
+SET DOB = '1960-09-10', BirthPlace = '227'
+WHERE Name = 'Colin Firth';
+
+UPDATE Person
+SET DOB = '1943-12-31', BirthPlace = '228'
+WHERE Name = 'Ben Kingsley';
+
+UPDATE Person
+SET DOB = '1958-03-20', BirthPlace = '229'
+WHERE Name = 'Holly Hunter';
+
+UPDATE Person
+SET DOB = '1948-02-05', BirthPlace = '230'
+WHERE Name = 'Tom Wilkinson';
+
+UPDATE Person
+SET DOB = '1967-07-23', BirthPlace = '231'
+WHERE Name = 'Philip Seymour Hoffman';
+
+UPDATE Person
+SET DOB = '1964-12-04', BirthPlace = '113'
+WHERE Name = 'Marisa Tomei';
+
+UPDATE Person
+SET DOB = '1974-10-28', BirthPlace = '232'
+WHERE Name = 'Joaquin Phoenix';
+
+UPDATE Person
+SET DOB = '1941-04-14', BirthPlace = '233'
+WHERE Name = 'Julie Christie';
+
+UPDATE Person
+SET DOB = '1957-04-29', BirthPlace = '134'
+WHERE Name = 'Daniel Day-Lewis';
+
+UPDATE Person
+SET DOB = '1949-06-22', BirthPlace = '234'
+WHERE Name = 'Meryl Streep';
+
+INSERT INTO Place VALUES ('100', 'Memphis', 'Tennessee', 'USA');
+INSERT INTO Place VALUES ('101', 'Pasaic County', 'New Jersey', 'USA');
+INSERT INTO Place VALUES ('102', 'New Orleans', 'Louisiana', 'USA');
+INSERT INTO Place VALUES ('103', 'Kalispell', 'Montana', 'USA');
+INSERT INTO Place VALUES ('104', 'Paris', 'NULL', 'France');
+INSERT INTO Place VALUES ('105', 'San Carlos', 'California', 'USA');
+INSERT INTO Place VALUES ('106', 'Palo Alto', 'California', 'USA');
+INSERT INTO Place VALUES ('107', 'Warwickshire', 'England', 'UK');
+INSERT INTO Place VALUES ('108', 'Sydney', 'New South Wales', 'Australia');
+INSERT INTO Place VALUES ('109', 'Lewisham', 'England', 'UK');
+INSERT INTO Place VALUES ('110', 'San Francisco', 'California', 'USA');
+INSERT INTO Place VALUES ('111', 'Pingtung', 'NULL', 'Taiwan');
+INSERT INTO Place VALUES ('112', 'Vicenza', 'Veneto', 'Italy');
+INSERT INTO Place VALUES ('113', 'New York', 'New York', 'USA');
+INSERT INTO Place VALUES ('114', 'Longview', 'Texas', 'USA');
+INSERT INTO Place VALUES ('115', 'Washington', 'District of Columbia', 'USA');
+INSERT INTO Place VALUES ('116', 'Manchester', 'England', 'UK');
+INSERT INTO Place VALUES ('117', 'Chicago', 'Illinois', 'USA');
+INSERT INTO Place VALUES ('118', 'Halifax', 'Nova Scotia', 'Canada');
+INSERT INTO Place VALUES ('119', 'Alexandria', 'Minnesota', 'USA');
+INSERT INTO Place VALUES ('120', 'Teddington', 'Middlesex', 'UK');
+INSERT INTO Place VALUES ('121', 'Mexico City', 'Distrito Federal', 'Mexico');
+INSERT INTO Place VALUES ('122', 'Cotonou', 'NULL', 'Benin');
+INSERT INTO Place VALUES ('123', 'West Covina', 'California', 'USA');
+INSERT INTO Place VALUES ('124', 'Wellington', 'NULL', 'New Zealand');
+INSERT INTO Place VALUES ('125', 'Dorset', 'England', 'UK');
+INSERT INTO Place VALUES ('126', 'Toowoomba', 'Queensland', 'Australia');
+INSERT INTO Place VALUES ('127', 'Cleveland', 'Ohio', 'USA');
+INSERT INTO Place VALUES ('128', 'Salford', 'England', 'UK');
+INSERT INTO Place VALUES ('129', 'Bayonne', 'New Jersey', 'USA');
+INSERT INTO Place VALUES ('130', 'Los Angeles', 'California', 'USA');
+INSERT INTO Place VALUES ('131', 'Dekalb', 'Illinois', 'USA');
+INSERT INTO Place VALUES ('132', 'Wilmette', 'Illinois', 'USA');
+INSERT INTO Place VALUES ('133', 'Boston', 'Massachusetts', 'USA');
+INSERT INTO Place VALUES ('134', 'London', 'England', 'UK');
+INSERT INTO Place VALUES ('135', 'Modesto', 'California', 'USA');
+INSERT INTO Place VALUES ('136', 'Shaker Heights', 'Ohio', 'USA');
+INSERT INTO Place VALUES ('137', 'Coatzacoalcos', 'Veracruz', 'Mexico');
+INSERT INTO Place VALUES ('138', 'Shawnee', 'Oklahoma', 'USA');
+INSERT INTO Place VALUES ('139', 'Lincoln', 'Nebraska', 'USA');
+INSERT INTO Place VALUES ('140', 'San Germán', 'Puerto Rico', 'USA');
+INSERT INTO Place VALUES ('141', 'Jerusalem', 'NULL', 'Israel');
+INSERT INTO Place VALUES ('142', 'Lexington', 'Kentucky', 'USA');
+INSERT INTO Place VALUES ('143', 'Newark', 'New Jersey', 'USA');
+INSERT INTO Place VALUES ('144', 'Concord', 'California', 'USA');
+INSERT INTO Place VALUES ('145', 'Yonkers', 'New York', 'USA');
+INSERT INTO Place VALUES ('146', 'Kansas City', 'Missouri', 'USA');
+INSERT INTO Place VALUES ('147', 'Santa Monica', 'California', 'USA');
+INSERT INTO Place VALUES ('148', 'Toronto', 'Ontario', 'Canada');
+INSERT INTO Place VALUES ('149', 'Detroit', 'Michigan', 'USA');
+INSERT INTO Place VALUES ('150', 'Appleton', 'Wisconsin', 'USA');
+INSERT INTO Place VALUES ('151', 'Tyne and Wear', 'England', 'UK');
+INSERT INTO Place VALUES ('152', 'Owensboro', 'Kentucky', 'USA');
+INSERT INTO Place VALUES ('153', 'Donnybrook', 'Western Australia', 'Australia');
+INSERT INTO Place VALUES ('154', 'Sao Paulo', 'Sao Paulo', 'Brazil');
+INSERT INTO Place VALUES ('155', 'Saint Matthews', 'South Carolina', 'USA');
+INSERT INTO Place VALUES ('156', 'Montreal', 'Quebec', 'Canada');
+INSERT INTO Place VALUES ('157', 'Austin', 'Texas', 'USA');
+INSERT INTO Place VALUES ('158', 'Studio City', 'California', 'USA');
+INSERT INTO Place VALUES ('159', 'Hadano', 'NULL', 'Japan');
+INSERT INTO Place VALUES ('160', 'Nottinghamshire', 'England', 'UK');
+INSERT INTO Place VALUES ('161', 'Pembrokeshire', 'Wales', 'UK');
+INSERT INTO Place VALUES ('162', 'Swansea', 'Wales', 'UK');
+INSERT INTO Place VALUES ('163', 'Topeka', 'Kansas', 'USA');
+INSERT INTO Place VALUES ('164', 'Fayetteville', 'North Carolina', 'USA');
+INSERT INTO Place VALUES ('165', 'Omaha', 'Nebraska', 'USA');
+INSERT INTO Place VALUES ('166', 'Philadelphia', 'Pennsylvania', 'USA');
+INSERT INTO Place VALUES ('167', 'Minneapolis', 'Minnesota', 'USA');
+INSERT INTO Place VALUES ('168', 'Bogotá', 'NULL', 'Colombia');
+INSERT INTO Place VALUES ('169', 'Arlington', 'Virginia', 'USA');
+INSERT INTO Place VALUES ('170', 'Quitman', 'Texas', 'USA');
+INSERT INTO Place VALUES ('171', 'La Jolla', 'California', 'USA');
+INSERT INTO Place VALUES ('172', 'Melbourne', 'Victoria', 'Australia');
+INSERT INTO Place VALUES ('173', 'Honolulu', 'Hawaii', 'USA');
+INSERT INTO Place VALUES ('174', 'Katy', 'Texas', 'USA');
+INSERT INTO Place VALUES ('175', 'Ciudad Real', 'Castilla-La Mancha', 'Spain');
+INSERT INTO Place VALUES ('176', 'Madison', 'Wisconsin', 'USA');
+INSERT INTO Place VALUES ('177', 'Benoni', 'Gauteng', 'South Africa');
+INSERT INTO Place VALUES ('178', 'New Rochelle', 'New York', 'USA');
+INSERT INTO Place VALUES ('179', 'London', 'Ontario', 'Candada');
+INSERT INTO Place VALUES ('180', 'Smyrna', 'Georgia', 'USA');
+INSERT INTO Place VALUES ('181', 'Smethwick', 'England', 'UK');
+INSERT INTO Place VALUES ('182', 'Leicester', 'England', 'UK');
+INSERT INTO Place VALUES ('183', 'Rochelle', 'Illinois', 'USA');
+INSERT INTO Place VALUES ('184', 'Schenectady', 'New York', 'USA');
+INSERT INTO Place VALUES ('185', 'Denver', 'Colorado', 'USA');
+INSERT INTO Place VALUES ('186', 'San Saba', 'Texas', 'USA');
+INSERT INTO Place VALUES ('187', 'Portland', 'Maine', 'USA');
+INSERT INTO Place VALUES ('188', 'Catskill Mountains', 'New York', 'USA');
+INSERT INTO Place VALUES ('189', 'Surrey', 'England', 'UK');
+INSERT INTO Place VALUES ('190', 'Berkshire', 'England', 'UK');
+INSERT INTO Place VALUES ('191', 'Toluca', 'Estada de Mexico', 'Mexico');
+INSERT INTO Place VALUES ('192', 'Bedford', 'New York', 'USA');
+INSERT INTO Place VALUES ('193', 'Falmouth', 'Massachusetts', 'USA');
+INSERT INTO Place VALUES ('194', 'Knoxville', 'Tennessee', 'USA');
+INSERT INTO Place VALUES ('195', 'Mount Vernon', 'New York', 'USA');
+INSERT INTO Place VALUES ('196', 'Cincinnati', 'Ohio', 'USA');
+INSERT INTO Place VALUES ('197', 'Terrell', 'Texas', 'USA');
+INSERT INTO Place VALUES ('198', 'Peekskill', 'New York', 'USA');
+INSERT INTO Place VALUES ('199', 'Pukera Bay', 'North Island', 'New Zealand');
+INSERT INTO Place VALUES ('200', 'Midland', 'Texas', 'USA');
+INSERT INTO Place VALUES ('201', 'Duncan', 'Oklahoma', 'USA');
+INSERT INTO Place VALUES ('202', 'Alcobendas', 'Madrid', 'Spain');
+INSERT INTO Place VALUES ('203', 'Santa Barbara', 'California', 'USA');
+INSERT INTO Place VALUES ('204', 'Perth', 'Western Australia', 'Australia');
+INSERT INTO Place VALUES ('205', 'Lincoln', 'England', 'UK');
+INSERT INTO Place VALUES ('206', 'Kenosha', 'Wisconsin', 'USA');
+INSERT INTO Place VALUES ('207', 'Louisville', 'Kentucky', 'USA');
+INSERT INTO Place VALUES ('208', 'Tenafly', 'New Jersey', 'USA');
+INSERT INTO Place VALUES ('209', 'Atlanta', 'Georgia', 'USA');
+INSERT INTO Place VALUES ('210', 'Yolo', 'California', 'USA');
+INSERT INTO Place VALUES ('211', 'Long Beach', 'California', 'USA');
+INSERT INTO Place VALUES ('212', 'Northridge', 'California', 'USA');
+INSERT INTO Place VALUES ('213', 'Las Palmas de Gran Canaria', 'Canary Islands', 'Spain');
+INSERT INTO Place VALUES ('214', 'Burnley', 'England', 'UK');
+INSERT INTO Place VALUES ('215', 'Tehran', 'NULL', 'Iran');
+INSERT INTO Place VALUES ('216', 'Essex', 'England', 'UK');
+INSERT INTO Place VALUES ('217', 'Massapequa', 'New York', 'USA');
+INSERT INTO Place VALUES ('218', 'Vienna', 'NULL', 'Austria');
+INSERT INTO Place VALUES ('219', 'Missoula', 'Montana', 'USA');
+INSERT INTO Place VALUES ('220', 'York', 'England', 'UK');
+INSERT INTO Place VALUES ('221', 'New Haven', 'Connecticut', 'USA');
+INSERT INTO Place VALUES ('222', 'Kent', 'England', 'UK');
+INSERT INTO Place VALUES ('223', 'Kapuskasing', 'Ontario', 'Canada');
+INSERT INTO Place VALUES ('224', 'Uonuma', 'NULL', 'Japan');
+INSERT INTO Place VALUES ('225', 'Woodlawn', 'Maryland', 'USA');
+INSERT INTO Place VALUES ('226', 'Miami', 'Florida', 'USA');
+INSERT INTO Place VALUES ('227', 'Grayshott', 'England', 'UK');
+INSERT INTO Place VALUES ('228', 'Scarborough', 'England', 'UK');
+INSERT INTO Place VALUES ('229', 'Conyers', 'Georgia', 'USA');
+INSERT INTO Place VALUES ('230', 'Leeds', 'England', 'UK');
+INSERT INTO Place VALUES ('231', 'Fairport', 'New York', 'USA');
+INSERT INTO Place VALUES ('232', 'San Juan', 'Puerto Rico', 'USA');
+INSERT INTO Place VALUES ('233', 'Chabua', 'Assam', 'India');
+INSERT INTO Place VALUES ('234', 'Summit', 'New Jersey', 'USA');

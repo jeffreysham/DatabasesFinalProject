@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="FFD700">
+
+<div class="nav-wrapper">
+	<div class="nav-bar">
+		<h1 align="center">Jeffrey + Tyler's MOVIE AWARDS Database Website</h1>
+		<h2 align="center">jsham2, tlee93</h2>
+		<h3 align="center">Instructions: Pick your favorite topic fill in the corresponding text fields for that SINGLE topic</h3>
+		<h3 align="center">If you want to see information connecting 2 or more categories, follow these guidelines</h3>
+		<h3 align="center">Person + Film: Fill out the InFilm section with the Name of the film.</h3>
+		<h3 align="center">Person + Award: Fill out the NominatedFor section with a portion of the name of the Award</h3>
+		<h3 align="center">Person + Birth Place: Fill out the Birth Place section in Person with a name of a city, state, or country.</h3>
+	</div>
+</div>
+
+<div class="set_up_adv_search">
+		<form action="advanced_search.php" method="post" accept-charset="utf-8">
+			<label for="person_name">Person: </label>
+			<br>
+			<input type="text" name="person_name" placeholder="Name..">
+			<br>
+			<input type="text" name="sex" placeholder="Sex..">
+			<br>
+			<input type="text" name="dob" placeholder="Date of Birth..">
+			<br>
+			<input type="text" name="role" placeholder="Role..">
+			<br>
+			<input type="text" name="person_nominated_for" placeholder="Nominated For..">
+			<br>
+			<input type="text" name="person_in_film" placeholder="In Film..">
+			<br>
+			<input type="text" name="person_birth_place" placeholder="Birth Place..">
+			<br>
+			<label for="person_name">Film: </label>
+			<br>
+			<input type="text" name="film_name" placeholder="Name..">
+			<br>
+			<input type="text" name="film_year" placeholder="Year..">
+			<br>
+			<input type="text" name="rating" placeholder="Rating..">
+			<br>
+			<input type="text" name="genre" placeholder="Genre..">
+			<br>
+			<input type="text" name="film_country" placeholder="Country..">
+			<br>
+			<input type="text" name="language" placeholder="Language..">
+			<br>
+			<input type="text" name="budget" placeholder="Budget..">
+			<br>
+			<input type="text" name="gross" placeholder="Gross..">
+			<br>
+			<input type="text" name="film_nominated_for" placeholder="Nominated For..">
+			<br>
+			<label for="person_name">Award: </label>
+			<br>
+			<input type="text" name="agency" placeholder="Agency..">
+			<br>
+			<input type="text" name="award_name" placeholder="Name..">
+			<br>
+			<input type="text" name="award_year" placeholder="Year..">
+			<br>
+			<input type="text" name="win" placeholder="YES or NO">
+			<br>
+			<input type="text" name="votes" placeholder="Number of Votes..">
+			<br>
+			<label for="person_name">Birth Place: </label>
+			<br>
+			<input type="text" name="city" placeholder="City..">
+			<br>
+			<input type="text" name="state" placeholder="State..">
+			<br>
+			<input type="text" name="place_country" placeholder="Country..">
+			<br>
+			<input type="submit" value="Search">
+		</form>
+</div>
+
+</body>
+</html>
